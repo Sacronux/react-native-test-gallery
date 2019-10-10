@@ -1,0 +1,2 @@
+export const GALLERY_HOME = 'GALLERY_HOME';
+export const GALLERY_PHOTO = 'GALLERY_PHOTO';
